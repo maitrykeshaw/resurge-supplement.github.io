@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://get-terracalm.vercel.app/sitemap.xml
+Sitemap: https://resurge-supplement.vercel.app/sitemap.xml
