@@ -1,1 +1,1 @@
-# https://resurge-supplement.vercel.app
+# https://resurge-supplement.vercel.app/
