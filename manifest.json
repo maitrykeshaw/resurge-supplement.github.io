@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Resurge™ | Official Website",
+  "short_name":"Resurge™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Resurge supplement is a powerful concentration of antioxidants that aid in weight loss.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
