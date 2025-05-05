@@ -87,10 +87,10 @@ body {
     box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   }
 } /*!
-   * Bootstrap v3.1.1 (http://getbootstrap.com)
-   * Copyright 2011-2014 Twitter, Inc.
-   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
-   */ /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+ * Bootstrap v3.1.1 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */ /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -681,12 +681,12 @@ h2 {
   font-weight: 400;
   font-style: normal;
 } /*! Social Likes v3.0.4 by Artem Sapegin - http://sapegin.github.com/social-likes - Licensed MIT */ /*!
-  * Pricely v1.0
-  *
-  * Copyright 2013 - Forever, Weborithm.com
-  *
-  * Designed and built by Weborithm
-  */
+* Pricely v1.0
+*
+* Copyright 2013 - Forever, Weborithm.com
+*
+* Designed and built by Weborithm
+*/
 .faqTitle {
   padding-bottom: 5px;
 }
